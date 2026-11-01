@@ -1,0 +1,6 @@
+{
+  "name": "Dolax - Quản lý Vận chuyển & Đối soát",
+  "description": "Hệ thống quản trị đơn vị vận chuyển Dolax: quản lý cửa hàng, đơn hàng, dòng tiền & đối soát COD, và phân quyền người dùng chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
